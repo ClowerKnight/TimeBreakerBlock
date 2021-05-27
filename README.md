@@ -1,6 +1,6 @@
 # TimeBreakerBlock
 
- In-Game Images
+ Oyun Resimleri
 =============
 
 <img src="https://user-images.githubusercontent.com/66878884/119758318-048f8180-beaf-11eb-9b03-1dc84d907fbd.jpeg" width="450" height="450">
@@ -20,7 +20,7 @@
 
 
 
- How To Download ? 
+Nereden Yükleyebilirsin ?
 =============
 https://play.google.com/store/apps/details?id=com.DefaultCompany.TimeBreaker
 
