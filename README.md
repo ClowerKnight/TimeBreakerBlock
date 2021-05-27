@@ -1,6 +1,6 @@
 # TimeBreakerBlock
 
- Oyun Resimleri
+ Oyun İçi Resimler
 =============
 
 <img src="https://user-images.githubusercontent.com/66878884/119758318-048f8180-beaf-11eb-9b03-1dc84d907fbd.jpeg" width="450" height="450">
